@@ -28,15 +28,15 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/maayths">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<div align="center" style="text-decoration:none;">
+  <a href="https://www.instagram.com/maayths" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="matheus.barcellosb@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
+  <a href="mailto:matheus.barcellosb@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-barcellos-bertoldo-a63a2a331">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/matheus-barcellos-bertoldo-a63a2a331" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
