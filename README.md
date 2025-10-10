@@ -24,16 +24,12 @@
 
 ###
 
-<div align="center" style="text-decoration:none;">
-  <a href="https://www.instagram.com/maayths" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:matheus.barcellosb@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="outlook logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-barcellos-bertoldo-a63a2a331" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maayths)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:matheus.barcellosb@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barcellos-bertoldo-a63a2a331)
+
 </div>
 
 ###
